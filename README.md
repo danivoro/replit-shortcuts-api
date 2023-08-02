@@ -10,3 +10,7 @@ http://localhost:3000/custom-image?text=Ctrl%20%2B%20F
 which should return an image with the next text:
 
 "The shortcut of the day is: Ctrl + F"
+
+## Some documentation for Canvas
+
+https://github.com/Automattic/node-canvas

@@ -3,7 +3,6 @@ import { createCanvas, loadImage, registerFont } from "canvas";
 import path from "path";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
-import { createServer } from "http";
 
 console.log("hello");
 
